@@ -1,7 +1,14 @@
-## Hi there 👋 Fathimath Thaliyil here.I am from India .I successfully completed my B-tech in Computer Science and Engineering. After my study i worked as Teaching faculty in India.since 2019 i have been living in germany 
+## Hi there 👋 Fathimath Thaliyil here.
+ I successfully completed my B-tech in Computer Science and Engineering. After my study i worked as Teaching faculty in India.since 2019 i have been living in germany .Currently iam doing Webdev Bootcamp at NeueFische.
+# My Skills
+-Core java 
 
-<!--
-**thaliyil/thaliyil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Mysql database
+
+-Basic c programming
+
+
+<!--**thaliyil/thaliyil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ()
 Here are some ideas to get you started:
 
