@@ -1,5 +1,7 @@
 ## Hi everybody 👋 Fathimath Thaliyil here.
- I successfully completed my B-tech in Computer Science and Engineering. After my study i worked as Teaching faculty in India.since 2019 i have been living in germany .Currently iam doing Webdev Bootcamp at NeueFische.
+ I successfully completed my B-tech in Computer Science and Engineering. After my study i worked as Teaching faculty in India.since 2019 i have been living in germany .I completed the Web Development Bootcamp from NEUEFISCHE end of Aug 2024.
+With my team, I developed "TrailBlazer", an app for outdoor and adventure enthusiasts, wich contains the necessary CRUD operations and responsive design (have a look at our repo :) )
+.
 # My Skills
 -HTML
 
