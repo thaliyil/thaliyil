@@ -1,6 +1,7 @@
-## Hi there 👋 Fathimath Thaliyil here.
+## Hi everybody 👋 Fathimath Thaliyil here.
  I successfully completed my B-tech in Computer Science and Engineering. After my study i worked as Teaching faculty in India.since 2019 i have been living in germany .Currently iam doing Webdev Bootcamp at NeueFische.
 # My Skills
+-HTML
 -Core java 
 
 -Mysql database
