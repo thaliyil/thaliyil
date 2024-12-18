@@ -3,6 +3,16 @@
 # My Skills
 -HTML
 
+-CSS
+
+-Javascript
+
+-React
+
+-Next.js
+
+-Node.js
+
 -Core java 
 
 -Mysql database
